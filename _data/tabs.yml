@@ -9,6 +9,31 @@
   name: Home
   icon: "fas fa-home"
 -
+  name: Foundations
+  icon: "fas fa-stream"
+  path: tabs
+  url: foundations
+-
+  name: Shared Development
+  icon: "fas fa-stream"
+  path: tabs
+  url: shared
+-
+  name: Richard
+  icon: "fas fa-stream"
+  path: tabs
+  url: richard
+-
+  name: Rebeca
+  icon: "fas fa-stream"
+  path: tabs
+  url: rebeca
+-
+  name: "Book Reports"
+  icon: "fas fa-book-open"
+  path: tabs
+  url: book_reports
+-
   name: Categories
   icon: "fas fa-stream"
   path: tabs
@@ -19,12 +44,7 @@
   path: tabs
   url: tags
 -
-  name: "Archives"
+  name: "Blog Archives"
   path: tabs
   url: archives
   icon: "fas fa-archive"
--
-  name: "About"
-  icon: "fas fa-info"
-  path: tabs
-  url: about
