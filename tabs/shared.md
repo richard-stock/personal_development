@@ -6,6 +6,7 @@ title: Shared Development
 ---
 
 - Relationships
+    - - Interdependence is the Highest Form of Relationship
 - Discipline, Consistency, Habit Building
 
 ### Up Next

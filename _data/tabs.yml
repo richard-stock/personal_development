@@ -10,7 +10,7 @@
   path: tabs
   url: foundations
 -
-  name: Shared Development
+  name: Shared
   icon: "fas fa-stream"
   path: tabs
   url: shared

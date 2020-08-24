@@ -18,9 +18,11 @@ Entire doctrines, theories, arguments, and principles rest their entire weight u
 
 ##### Principles
 
-Within *moral law*, a principle is a value which serves as a guide for behaviour for an individual, or values that orient and rule the conduct of persons in a particular society.  Within *systems*, a principle reflects the designed purpose of that system, which if ignored would make the effective operation or intended use of the system impossible.  Within *science*, a principle reflects an unbreakable law, such as the principle of gravity.  
+Within *moral law*, a principle is a guideline for human conduct.  Within *systems*, a principle reflects the designed purpose of that system, which if ignored would make the effective operation or intended use of the system impossible.  Within *science*, a principle reflects an unbreakable law, such as the principle of gravity.  
 
->  “It is impossible for us to break the law. We can only break ourselves against the law.” - Cecil DeMille
+Principles are not practices. A practice is a specific activity or action. A practice that works in one circumstance will not necessarily work in another, as parents who have tried to raise a second child exactly like they did the first can readily attest. While practices are situationally specific, principles are deep, fundamental truths that have universal application. They apply to individuals, to marriages, to families, to private and public organizations of every kind. When these truths are internalized into habits, they empower people to create a wide variety of practices to deal with different situations.
+
+Principles are not values. A gang of thieves can share values, but they are in violation of the universal principles of goodness.  Principles are reality. Values are paradigms. When we value correct principles, we have truth—a knowledge of things as they are.
 
 ##### First Principles
 

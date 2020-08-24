@@ -2,26 +2,16 @@
 title: Foundations
 ---
 
-### Fundamental Theory
+### Fundamental Concepts of Personal Development
 ---
-- **[The First Principle of Personal Development]({% link pages/first_principle.md %})**
-- **[Character vs Personality]({% link pages/character.md %})**
-- **[Paradigms: The Lenses Through Which We Perceive Reality]({% link pages/paradigms.md %})**
-- **[The Principle Centered Paradigm]({% link pages/principle_centered.md %})**
+
+- **[Our Habits: The Building Blocks of Personal Development]({% link pages/habits.md %})**
+- **[Our Time: The Most Valuable Resource for Personal Development]({% link pages/time.md %})**
+- **[Our Mind: The Most Powerful Tool for Personal Development]({% link pages/mind.md %})**
+- **[Our Why: The Most Powerful Force Behind Personal Development]({% link pages/why.md %})**
 
 ### Fundamental Paradigms of Personal Development
 ---
-
-- Personal Development is Limited only by our Mind
-- Personal Development is Inside Out:  It Always Starts with Self, not Others
-- Personal Development is Character Development, not Personality Development
-- Personal Development is Long Term, there are no Shortcuts
-- The Perfect Timing for Personal Development is Always Now
-
-- Interdependence is the Highest Form of Relationship
-
-### Our Pursuit of Happiness:  Why are we Investing in Personal Development?
----
-
-- Inner World: Our Deepest Motivations
-- Outer World: Our Life Vision & Goals
+- **[The 1st Principle of Personal Development]({% link pages/first_principle.md %})**
+- **[Character vs Personality Paradigms]({% link pages/char_vs_pers.md %})**
+- **[The Character Development Paradigm]({% link pages/character.md %})**
