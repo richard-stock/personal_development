@@ -20,6 +20,8 @@ Entire doctrines, theories, arguments, and principles rest their entire weight u
 
 Within *moral law*, a principle is a value which serves as a guide for behaviour for an individual, or values that orient and rule the conduct of persons in a particular society.  Within *systems*, a principle reflects the designed purpose of that system, which if ignored would make the effective operation or intended use of the system impossible.  Within *science*, a principle reflects an unbreakable law, such as the principle of gravity.  
 
+>  “It is impossible for us to break the law. We can only break ourselves against the law.” - Cecil DeMille
+
 ##### First Principles
 
 **First principles** are principles which contain axioms, upon which other principles can be derived.

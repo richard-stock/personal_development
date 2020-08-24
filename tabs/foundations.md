@@ -5,6 +5,7 @@ title: Foundations
 ### Fundamental Theory
 ---
 - **[The First Principle of Personal Development]({% link pages/first_principle.md %})**
+- **[Character vs Personality]({% link pages/character.md %})**
 - **[Paradigms: The Lenses Through Which We Perceive Reality]({% link pages/paradigms.md %})**
 - **[The Principle Centered Paradigm]({% link pages/principle_centered.md %})**
 
