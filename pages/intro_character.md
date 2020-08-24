@@ -1,5 +1,5 @@
 ---
-title: The Principle Centered Paradigm
+title: Introduction to the Character Paradigm
 date: 2020-08-23
 categories: 
 tags: []     # TAG names should always be lowercase
@@ -7,10 +7,10 @@ author: Richard Stock
 layout: post
 ---
 
-### Lighthouse Principles:  Objective Reality 
+### A 'Principle Based' Paradigm 
 ---
 
-The fundamental idea that there are principles that govern human effectiveness—natural laws in the human dimension that are just as real, just as unchanging and unarguably “there” as laws such as gravity are in the physical dimension.
+The *Character Paradigm* is based on the fundamental idea that there are **principles** that govern human effectiveness—natural laws in the human dimension that are just as real, just as unchanging and unarguably “there” as laws such as gravity are in the physical dimension.  
 
 > Two battleships assigned to the training squadron had been at sea on maneuvers in heavy weather for several days. I was serving on the lead battleship and was on watch on the bridge as night fell.
 >
@@ -36,11 +36,11 @@ The fundamental idea that there are principles that govern human effectiveness�
 >
 > We changed course.
 
-Principles are like lighthouses. They are natural laws that cannot be broken. As Cecil B. DeMille observed of the principles contained in his monumental movie, The Ten Commandments, 
+Principles are like lighthouses.  They are natural laws that cannot be broken. As Cecil B. DeMille observed of the principles contained in his monumental movie, The Ten Commandments, 
 
 >  “It is impossible for us to break the law. We can only break ourselves against the law.”
 
-People view the world through the lens of their paradigms, but they are  in terms they are a “subjective reality,” only an attempt to describe the territory.
+People view the world through the lens of their paradigms, but they are in terms they are a “subjective reality,” only an attempt to describe the territory.
 
 The “objective reality,” or the territory itself, is composed of “lighthouse”
 principles that govern human growth and happiness—natural laws that are
