@@ -6,6 +6,7 @@ title: Foundations
 ---
 - **[The First Principle of Personal Development]({% link pages/first_principle.md %})**
 - **[Paradigms: The Lenses Through Which We Perceive Reality]({% link pages/paradigms.md %})**
+- **[The Principle Centered Paradigm]({% link pages/principle_centered.md %})**
 
 ### Fundamental Paradigms of Personal Development
 ---
