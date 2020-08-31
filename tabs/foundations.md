@@ -15,3 +15,9 @@ title: Foundations
 - **[The 1st Principle of Personal Development]({% link pages/first_principle.md %})**
 - **[Character vs Personality Paradigms]({% link pages/char_vs_pers.md %})**
 - **[The Character Development Paradigm]({% link pages/character.md %})**
+
+### Biblical Study on Love
+---
+
+- **[Chapter 1: The Origin of Love]({% link pages/love_1.md %})**
+- **[Chapter 2: What is Love?]({% link pages/love_2.md %})**
