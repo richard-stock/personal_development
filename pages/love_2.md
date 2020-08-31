@@ -29,7 +29,7 @@ Jesus the Son of God, the Word who became flesh and dwelt among us, opened His m
 >
 > For as the Father has life in Himself, so He has **granted** the Son to have life in Himself, and has **given Him authority** to execute judgment also. (John 5:26-27)
 
-God's love for Jesus had a common theme:  God the Father didn’t withhold anything from His Son Jesus. Jesus uses clearly states that nothing was held back from Him by His Father, “For the Father loves the Son” and gave Him “all things”.  He didn’t ration or portion His love, He gave Him everything all at once. He didn’t have to progressively earn favor and merits and rights and privileges. Jesus had everything right from the start. 
+God's love for Jesus had a common theme:  God the Father didn’t withhold anything from His Son Jesus. Jesus clearly states that nothing was held back from Him by His Father, “For the Father loves the Son” and gave Him “all things”.  He didn’t ration or portion His love, He gave Him everything all at once. He didn’t have to progressively earn favor and merits and rights and privileges. Jesus had everything right from the start. 
 
 Even before Jesus started His ministry, He knew He already had His Father’s love and approval. It wasn’t based on what He had done, because He hadn’t even done one miracle yet:
 
@@ -37,7 +37,7 @@ Even before Jesus started His ministry, He knew He already had His Father’s lo
 
 Before Jesus even started his ministry, God the Father affirmed Jesus and gave Him the ultimate gift of the Holy Spirit, and with a booming voice that everyone could hear told Him that He was His beloved Son. This is lavishing love that comes from the heart of a Father.  
 
-`The signature mark of the Father's love for Jesus was lavishing upon Him all of Himself, His possessions, His knowledge, revelation, everything.`
+`The signature mark of the Father's love for Jesus was unconditionally lavishing upon Him all of Himself, His possessions, His knowledge, revelation, everything. Pure and unrestrained, unconditional love.`
 
 ### 2. Jesus's Love for the Father
 
