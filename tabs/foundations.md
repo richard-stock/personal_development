@@ -20,4 +20,4 @@ title: Foundations
 ---
 
 - **[Chapter 1: The Origin of Love]({% link pages/love_1.md %})**
-- **[Chapter 2: What is Love?]({% link pages/love_2.md %})**
+- **[Chapter 2: Perfect Love]({% link pages/love_2.md %})**

@@ -28,5 +28,7 @@ We as humans only know HOW to love because we are created FOR love.
 
 `Therefore, love is the highest expression and quality of life.  To love is simply to respond to God’s invitation to take part in the divine expression of love that has always existed in his Heart, forever.`
 
-> Next Chapter:  **[Chapter 2: What is Love?]({% link pages/love_2.md %})**
+---
+
+go to Next Chapter -->  **[Chapter 2: Perfect Love]({% link pages/love_2.md %})**
 

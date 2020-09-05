@@ -67,9 +67,9 @@ Jesus was focused on pleasing His Father more than pleasing Himself. This is mor
 
 >  Then Jesus said to them, “I do nothing of Myself; but as My Father taught Me, I speak these things, for I always do those things that please Him.” (John 8:28-29)
 
-`The signature mark of Jesus’ love for the Father was complete obedience and sacrifice. Jesus loves His Father by doing things that He wants Him to do for Him.`
+`The signature mark of Jesus’ love for the Father was complete obedience and sacrifice. Jesus loves His Father by doing things that He wants Him to do for Him, no matter how hard or uncomfortable or painful they are.`
 
-### 3. The Divine Exchange
+### 3.  Divine Exchange
 
 ---
 
@@ -82,3 +82,12 @@ An amazing summary of this divine exchange of love between the Father and Son is
 > **(Father’s response)**: Therefore God also has highly exalted Him and given Him the name which is above every name, that at the name of Jesus every knee should bow, of those in heaven, and of those on earth, and of those under the earth, and that every tongue should confess that Jesus Christ is Lord, to the glory of God the Father. (Phil 2:9-11)
 
 `The complete obedience and sacrifice of Jesus led to the unlimited power and authority, fame, honor given generously by the Father.`
+
+---
+
+go to Next Chapter -->  **[Chapter 3: Jesus Demonstrates Divine Love in a Human Life]({% link pages/love_3.md %})**
+
+
+
+
+
