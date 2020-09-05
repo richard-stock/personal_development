@@ -1,0 +1,5 @@
+User-agent: *
+
+Disallow: /norobots/
+
+Sitemap: https://richard-stock.github.io/personal_development/sitemap.xml
